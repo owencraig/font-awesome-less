@@ -8,6 +8,7 @@
   "main":[
     "fonts/fontawesome-webfont.eot",
     "fonts/fontawesome-webfont.woff",
+    "fonts/fontawesome-webfont.woff2",
     "fonts/fontawesome-webfont.ttf",
     "fonts/fontawesome-webfont.svg",
     "less/font-awesome.less"
